@@ -1,0 +1,68 @@
+<style>
+          a {
+            color: goldenrod
+          }
+          h1 {
+            font-size: 90px;
+            color: goldenrod;
+            font-style: italic;
+            background-color:black ;
+            text-decoration: underline greenyellow
+          
+          }
+          img {
+            margin: 40px 0px 0px 0px;
+            border: 7px solid white;
+            border-radius: 20px;
+          }
+          article {
+            max-width: 500px;
+            padding: 20px;
+            margin: 0 auto;
+            background: goldenrod
+
+          }
+          header{
+            text-align: center;
+            background: url();
+            background-size: cover;
+            color: white;
+          }
+          body{
+            background-color: black
+          }
+          span{
+            color:violet;
+            font-family: fantasy;
+            font-size: 160px
+            
+          }
+
+          </style>
+
+          th{
+            border: solid;
+            max-width: 500px;
+            text-align: center;
+            margin: 0 auto;
+            color: goldenrod
+        }
+        td{
+            border: solid;
+            text-align: center;
+            margin: 0 auto;
+        }
+        table{
+          margin: 0 auto;
+          max-width: 500px;
+          padding: 5px;
+          font-size: 50px;
+          color: goldenrod
+        }
+        img {
+          margin: 0;
+          border: 7px solid violet;
+          border-radius: 20px;
+          height: 250px;
+          width: 250px;
+        }
