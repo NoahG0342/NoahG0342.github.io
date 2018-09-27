@@ -1,4 +1,4 @@
-<style>
+
           a {
             color: goldenrod
           }
@@ -34,11 +34,10 @@
           span{
             color:violet;
             font-family: fantasy;
-            font-size: 160px
-            
+            font-size: 160px;
           }
-
-          </style>
+            
+        
 
           th{
             border: solid;
